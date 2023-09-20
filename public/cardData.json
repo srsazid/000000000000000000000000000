@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/JQgMKgw/Rectangle-2.png",
+    "course_name": "Introduction to Programming",
+    "description": "Learn the basics of programming and coding.",
+    "price": 49.99,
+    "credit_hour": 3
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/7pVjRgD/Rectangle-2-1.png",
+    "course_name": "Web Development Fundamentals",
+    "description": "Explore the fundamentals of web development.",
+    "price": 59.99,
+    "credit_hour": 4
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/4dGfSVp/Rectangle-2-2.png",
+    "course_name": "Data Science Essentials",
+    "description": "Discover the essentials of data science and analytics.",
+    "price": 69.99,
+    "credit_hour": 3
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/2YwSD2G/Rectangle-2-3.png",
+    "course_name": "React.js Masterclass",
+    "description": "Master React.js and build modern web applications.",
+    "price": 79.99,
+    "credit_hour": 5
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/7W5yjkR/Rectangle-2-4.png",
+    "course_name": "JavaScript for Beginners",
+    "description": "Learn JavaScript from scratch.",
+    "price": 39.99,
+    "credit_hour": 2
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/tY1jxR4/Rectangle-2-5.png",
+    "course_name": "Python Programming",
+    "description": "Become proficient in Python programming.",
+    "price": 49.99,
+    "credit_hour": 4
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/T1nX9bd/Rectangle-2-6.png",
+    "course_name": "Full-Stack Web Development",
+    "description": "Learn front-end and back-end web development.",
+    "price": 99.99,
+    "credit_hour": 6
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/JC71dJ1/Rectangle-3.png",
+    "course_name": "Machine Learning Foundations",
+    "description": "Build a strong foundation in machine learning.",
+    "price": 89.99,
+    "credit_hour": 4
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/ncLCX07/Rectangle-3-1.png",
+    "course_name": "UI/UX Design Principles",
+    "description": "Explore user interface and user experience design.",
+    "price": 59.99,
+    "credit_hour": 3
+  }
+]
